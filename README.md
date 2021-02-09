@@ -8,9 +8,9 @@ project website: <https://easyrpg.org/rtp-replacement/>
 
 Original RPG Maker RTP contains a set of material resources:
 
--   Graphics
--   Music
--   Sound effects
+- Graphics
+- Music
+- Sound effects
 
 It allows a preconfigured setup for game creation and shared with other RPG
 Maker based games, saving download bandwidth and disk space.
@@ -38,9 +38,9 @@ Released versions are also available at our Download Archive:
 
 Available options:
 
--   Open an issue at <https://github.com/EasyRPG/RTP/issues>
--   Open a thread at <https://community.easyrpg.org/>
--   Chat with us via IRC: #easyrpg at irc.freenode.net
+- Open an issue at <https://github.com/EasyRPG/RTP/issues>
+- Open a thread at <https://community.easyrpg.org/>
+- Chat with us via IRC: #easyrpg at irc.freenode.net
 
 ## License
 
