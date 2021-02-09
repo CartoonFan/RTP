@@ -66,7 +66,7 @@ License URL: <https://creativecommons.org/licenses/by/4.0/>
 | Title/Title1.png         | (c) 2010 Francisco de la Peña ([CC0][link_cc0])                                                                                                                                                                                   | <https://easyrpg.org>                  |
 | Title/Title2.png         | (c) 2010 Francisco de la Peña ([CC0][link_cc0])                                                                                                                                                                                    | <https://easyrpg.org>                  |
 | Title/Title3.png         | (c) 2010 Francisco de la Peña ([CC0][link_cc0])                                                                                                                                                                                    | <https://easyrpg.org>                  |
-| Title/Title4.png         | (c) 2010 Francisco de la Peña ([CC0][link_cc0])                                                                                                                                                                                    | <https://easyrpg.org>                  |
+| Title/Title4.png         | (c) 2010 Francisco de la Peña ([CC0][link_cc0])                                                                                                                                                                                    | <https://easyrpg.org>                  | 
 
 [link_cc0]: https://creativecommons.org/publicdomain/zero/1.0/ "CC0 1.0 License"
 [link_cc_by]: https://creativecommons.org/licenses/by/4.0/ "CC-BY 4.0 License"
