@@ -12,12 +12,13 @@ The original RPG Maker RTP contains a set of material resources:
 - Music
 - Sound effects
 
-It allows one to have a preconfigured setup for game creation and is shared with other RPG
-Maker based games, saving download bandwidth and disk space.
+It allows one to have a preconfigured setup for game creation and is shared with
+other RPG Maker based games, saving download bandwidth and disk space.
 
 However, the original RPG Maker RTP can't be distributed freely. RPG Maker RTP
 features a non-free, proprietary license and only can be distributed by
-authorized RPG Maker distributors. Product customers can distribute materials only after separating them from games made with RPG Maker.
+authorized RPG Maker distributors. Product customers can distribute materials
+only after separating them from games made with RPG Maker.
 
 EasyRPG RTP aims to be a free (as in freedom) replacement, compatible with the
 original RPG Maker RTP, so that games can be distributed more freely.
